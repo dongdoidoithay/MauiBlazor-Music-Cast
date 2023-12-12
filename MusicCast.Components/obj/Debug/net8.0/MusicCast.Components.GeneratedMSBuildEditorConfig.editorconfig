@@ -22,6 +22,54 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/App/MAUI/Maui-Hybrid/MauiBlazor-Music-Cast/MusicCast.Components/Component1.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50MS5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = b-jf0ma8z86f
+[D:/App/MAUI/Maui-Hybrid/MauiBlazor-Music-Cast/MusicCast.Components/Player/FloatingPlayer.razor]
+build_metadata.AdditionalFiles.TargetPath = UGxheWVyXEZsb2F0aW5nUGxheWVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-m9y1lcf52e
+
+[D:/App/MAUI/Maui-Hybrid/MauiBlazor-Music-Cast/MusicCast.Components/Shared/Grid/Card.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEdyaWRcQ2FyZC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-oewq90c7gz
+
+[D:/App/MAUI/Maui-Hybrid/MauiBlazor-Music-Cast/MusicCast.Components/Shared/Grid/Grid.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEdyaWRcR3JpZC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-n5ica2zjes
+
+[D:/App/MAUI/Maui-Hybrid/MauiBlazor-Music-Cast/MusicCast.Components/Shared/Modal.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1vZGFsLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-ppztgv1v5h
+
+[D:/App/MAUI/Maui-Hybrid/MauiBlazor-Music-Cast/MusicCast.Components/Shared/NoResults.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5vUmVzdWx0cy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-1uqw10oh2g
+
+[D:/App/MAUI/Maui-Hybrid/MauiBlazor-Music-Cast/MusicCast.Components/Shared/Picture.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBpY3R1cmUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-4mp48q54w9
+
+[D:/App/MAUI/Maui-Hybrid/MauiBlazor-Music-Cast/MusicCast.Components/Shared/PlayerBars.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBsYXllckJhcnMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-a2ruhdzv5w
+
+[D:/App/MAUI/Maui-Hybrid/MauiBlazor-Music-Cast/MusicCast.Components/Shared/Spinner.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFNwaW5uZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-byef83yxmm
+
+[D:/App/MAUI/Maui-Hybrid/MauiBlazor-Music-Cast/MusicCast.Components/Shared/SubtitlePage.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1YnRpdGxlUGFnZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-5fsspnvtjq
+
+[D:/App/MAUI/Maui-Hybrid/MauiBlazor-Music-Cast/MusicCast.Components/Shared/Tags.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFRhZ3MucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-t2s6t3zepw
+
+[D:/App/MAUI/Maui-Hybrid/MauiBlazor-Music-Cast/MusicCast.Components/Shared/TitlePage.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFRpdGxlUGFnZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-gu3cty6ivg
+
+[D:/App/MAUI/Maui-Hybrid/MauiBlazor-Music-Cast/MusicCast.Components/Shared/ToggleSwitch.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFRvZ2dsZVN3aXRjaC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-rca06loezm
+
+[D:/App/MAUI/Maui-Hybrid/MauiBlazor-Music-Cast/MusicCast.Components/Shared/Tooltip.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFRvb2x0aXAucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-906oathn63

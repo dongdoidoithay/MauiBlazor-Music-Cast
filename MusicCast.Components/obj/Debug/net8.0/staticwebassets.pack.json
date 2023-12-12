@@ -1,0 +1,113 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\App\\MAUI\\Maui-Hybrid\\MauiBlazor-Music-Cast\\MusicCast.Components\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MusicCast.Components.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MusicCast.Components.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\App\\MAUI\\Maui-Hybrid\\MauiBlazor-Music-Cast\\MusicCast.Components\\wwwroot\\audioJsInterop.js",
+      "PackagePath": "staticwebassets\\audioJsInterop.js"
+    },
+    {
+      "Id": "D:\\App\\MAUI\\Maui-Hybrid\\MauiBlazor-Music-Cast\\MusicCast.Components\\wwwroot\\background.png",
+      "PackagePath": "staticwebassets\\background.png"
+    },
+    {
+      "Id": "D:\\App\\MAUI\\Maui-Hybrid\\MauiBlazor-Music-Cast\\MusicCast.Components\\wwwroot\\css\\button.css",
+      "PackagePath": "staticwebassets\\css\\button.css"
+    },
+    {
+      "Id": "D:\\App\\MAUI\\Maui-Hybrid\\MauiBlazor-Music-Cast\\MusicCast.Components\\wwwroot\\css\\fonts\\SegoeUI.woff",
+      "PackagePath": "staticwebassets\\css\\fonts\\SegoeUI.woff"
+    },
+    {
+      "Id": "D:\\App\\MAUI\\Maui-Hybrid\\MauiBlazor-Music-Cast\\MusicCast.Components\\wwwroot\\css\\fonts\\SegoeUIBold.woff",
+      "PackagePath": "staticwebassets\\css\\fonts\\SegoeUIBold.woff"
+    },
+    {
+      "Id": "D:\\App\\MAUI\\Maui-Hybrid\\MauiBlazor-Music-Cast\\MusicCast.Components\\wwwroot\\css\\fonts\\SegoeUILight.woff",
+      "PackagePath": "staticwebassets\\css\\fonts\\SegoeUILight.woff"
+    },
+    {
+      "Id": "D:\\App\\MAUI\\Maui-Hybrid\\MauiBlazor-Music-Cast\\MusicCast.Components\\wwwroot\\css\\fonts\\SegoeUISemibold.woff",
+      "PackagePath": "staticwebassets\\css\\fonts\\SegoeUISemibold.woff"
+    },
+    {
+      "Id": "D:\\App\\MAUI\\Maui-Hybrid\\MauiBlazor-Music-Cast\\MusicCast.Components\\wwwroot\\css\\fonts\\SegoeUISemilight.woff",
+      "PackagePath": "staticwebassets\\css\\fonts\\SegoeUISemilight.woff"
+    },
+    {
+      "Id": "D:\\App\\MAUI\\Maui-Hybrid\\MauiBlazor-Music-Cast\\MusicCast.Components\\wwwroot\\css\\icons\\fonts\\podcast-icons.svg",
+      "PackagePath": "staticwebassets\\css\\icons\\fonts\\podcast-icons.svg"
+    },
+    {
+      "Id": "D:\\App\\MAUI\\Maui-Hybrid\\MauiBlazor-Music-Cast\\MusicCast.Components\\wwwroot\\css\\icons\\fonts\\podcast-icons.ttf",
+      "PackagePath": "staticwebassets\\css\\icons\\fonts\\podcast-icons.ttf"
+    },
+    {
+      "Id": "D:\\App\\MAUI\\Maui-Hybrid\\MauiBlazor-Music-Cast\\MusicCast.Components\\wwwroot\\css\\icons\\fonts\\podcast-icons.woff",
+      "PackagePath": "staticwebassets\\css\\icons\\fonts\\podcast-icons.woff"
+    },
+    {
+      "Id": "D:\\App\\MAUI\\Maui-Hybrid\\MauiBlazor-Music-Cast\\MusicCast.Components\\wwwroot\\css\\icons\\style.css",
+      "PackagePath": "staticwebassets\\css\\icons\\style.css"
+    },
+    {
+      "Id": "D:\\App\\MAUI\\Maui-Hybrid\\MauiBlazor-Music-Cast\\MusicCast.Components\\wwwroot\\css\\input.css",
+      "PackagePath": "staticwebassets\\css\\input.css"
+    },
+    {
+      "Id": "D:\\App\\MAUI\\Maui-Hybrid\\MauiBlazor-Music-Cast\\MusicCast.Components\\wwwroot\\css\\reset.css",
+      "PackagePath": "staticwebassets\\css\\reset.css"
+    },
+    {
+      "Id": "D:\\App\\MAUI\\Maui-Hybrid\\MauiBlazor-Music-Cast\\MusicCast.Components\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\App\\MAUI\\Maui-Hybrid\\MauiBlazor-Music-Cast\\MusicCast.Components\\wwwroot\\css\\splash.css",
+      "PackagePath": "staticwebassets\\css\\splash.css"
+    },
+    {
+      "Id": "D:\\App\\MAUI\\Maui-Hybrid\\MauiBlazor-Music-Cast\\MusicCast.Components\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "D:\\App\\MAUI\\Maui-Hybrid\\MauiBlazor-Music-Cast\\MusicCast.Components\\wwwroot\\images\\bg-splash.jpg",
+      "PackagePath": "staticwebassets\\images\\bg-splash.jpg"
+    },
+    {
+      "Id": "D:\\App\\MAUI\\Maui-Hybrid\\MauiBlazor-Music-Cast\\MusicCast.Components\\wwwroot\\images\\bot-wait.svg",
+      "PackagePath": "staticwebassets\\images\\bot-wait.svg"
+    },
+    {
+      "Id": "D:\\App\\MAUI\\Maui-Hybrid\\MauiBlazor-Music-Cast\\MusicCast.Components\\wwwroot\\images\\empty-results.png",
+      "PackagePath": "staticwebassets\\images\\empty-results.png"
+    },
+    {
+      "Id": "D:\\App\\MAUI\\Maui-Hybrid\\MauiBlazor-Music-Cast\\MusicCast.Components\\wwwroot\\images\\logo-icon.svg",
+      "PackagePath": "staticwebassets\\images\\logo-icon.svg"
+    },
+    {
+      "Id": "D:\\App\\MAUI\\Maui-Hybrid\\MauiBlazor-Music-Cast\\MusicCast.Components\\wwwroot\\themeJsInterop.js",
+      "PackagePath": "staticwebassets\\themeJsInterop.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MusicCast.Components.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MusicCast.Components.props",
+      "PackagePath": "build\\MusicCast.Components.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MusicCast.Components.props",
+      "PackagePath": "buildMultiTargeting\\MusicCast.Components.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MusicCast.Components.props",
+      "PackagePath": "buildTransitive\\MusicCast.Components.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

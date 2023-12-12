@@ -1,0 +1,11 @@
+.spinner[b-byef83yxmm] {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 1;
+    height: 100%;
+}
+
+.spinner .spinner-image[b-byef83yxmm] {
+    width: 80px;
+}
