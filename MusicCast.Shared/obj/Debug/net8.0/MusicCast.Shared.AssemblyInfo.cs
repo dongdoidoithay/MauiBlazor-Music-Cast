@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MusicCast.Shared")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+83c600d3a76e29d500b6ec88edad2f2866059e8c")]
 [assembly: System.Reflection.AssemblyProductAttribute("MusicCast.Shared")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MusicCast.Shared")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
