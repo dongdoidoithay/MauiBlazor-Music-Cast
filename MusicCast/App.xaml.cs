@@ -1,4 +1,4 @@
-﻿namespace MusicCast
+﻿namespace MusicCastBlazor
 {
     public partial class App : Application
     {

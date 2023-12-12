@@ -10,7 +10,7 @@ public sealed class AudioInterop : IAudioInterop, IAsyncDisposable
     public AudioInterop(IJSRuntime jsRuntime)
     {
         _moduleTask = new(() => jsRuntime.InvokeAsync<IJSObjectReference>(
-           "import", "./_content/Podcast.Components/audioJsInterop.js").AsTask());
+           "import", "./_content/MusicCast.Components/audioJsInterop.js").AsTask());
     }
 
     public async Task PlayAsync(ElementReference element)

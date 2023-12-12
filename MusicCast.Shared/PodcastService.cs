@@ -14,7 +14,7 @@ public class PodcastService
 
     public Task<Category[]?> GetCategories()
     {
-        var text = _httpClient.GetStringAsync("categories").Result;
+        var text = _httpClient.GetAsync("categories").Result;
         var item = _httpClient.GetFromJsonAsync<Category[]>("categories");
 
         return item;
