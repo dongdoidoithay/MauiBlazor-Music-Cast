@@ -1,0 +1,76 @@
+﻿{
+  "id": "3bcf26de-8b44-4b07-85be-08dad179f39c",
+  "title": ".future",
+  "author": "Microsoft / Gimlet Creative",
+  "description": "The future isn’t random. It’s the result of the choices that we make now. We’ll be talking about technologies and industries that will define the next decade and beyond. Join our host Cristina Quinn, a science and technology reporter, as she dives into everything from Minecraft to cyber warfare. You can wait for the future to happen to you or engage with it right now and ahead of the curve on .future— a branded podcast from Microsoft, produced in partnership with Gimlet Creative.",
+  "image": "https://dotnetpodcastsstg.blob.core.windows.net/covers/.future.png",
+  "updated": "0001-01-01T00:00:00",
+  "link": "https://feeds.megaphone.fm/future",
+  "email": "podcasts@gimletmedia.com",
+  "language": "en",
+  "isFeatured": true,
+  "categories": [
+    {
+      "id": "5f923017-86da-4793-9332-7b74197acc51",
+      "genre": "Microsoft"
+    }
+  ],
+  "episodes": [
+    {
+      "id": "438c405e-9a24-46e2-f4e1-08dad179f3a3",
+      "title": "Work in the .future",
+      "published": "2017-08-09T16:00:00",
+      "url": "https://traffic.megaphone.fm/GLT8508440790.mp3",
+      "description": "In the final episode of this season of .future, we hear how our jobs continue to evolve in the modern workplace. Many of us still spend 40 plus hours in a physical office, but the internet and new digital communication tools\u00A0 are changing how we collaborate and communicate.\nThis story brings you voices that explore work philosophies of the past, job practices of the present, and the digital office spaces of the future.\nShow Notes:\n\nYou can check out Ram Devineni’s filmography at his IMDB page: http://www.imdb.com/name/nm3128813/\n\nThis episode features:\n\nRam Devineni — Documentarian\nAnton Andrews — Director of Office Envisioning, Microsoft\nBen Waber — CEO of Humanyze\nJanice Marturano—Founder of the Institute for Mindful Leadership\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "duration": "00:21:28"
+    },
+    {
+      "id": "3020ea65-0b13-40ee-f4e2-08dad179f3a3",
+      "title": "Design For All",
+      "published": "2017-08-02T16:00:00",
+      "url": "https://traffic.megaphone.fm/GLT4752242577.mp3",
+      "description": "Inclusive design is a widely-used concept in the design world. The idea is that when you create products, you actively choose to design that product for everyone.\u00A0 \nThis is particularly important for technology companies like Microsoft. As more and more of our lives become digital, we rely on tech for our livelihoods, our social lives, keeping in touch with our families… everything.\nBut unlike in the physical world, where buildings with stairs instead of elevators might pre-date our current understanding of inclusivity, new technology has no excuse. And that’s the choice we’re talking about today. The choice to widen your world, and design from a perspective that allows everyone to participate.\nYou can check-out Angela Glover Blackwell’s piece on The Curb-Cut Effect here: https://ssir.org/articles/entry/the_curb_cut_effect\n\nThis episode features:\nDan Formosa\u00A0 —\u00A0 Designer and Consultant\u00A0\nAngela Glover Blackwell\u00A0 —\u00A0 Founder of PolicyLink\nJenny Lay-Flurrie\u00A0 —\u00A0 Chief Accessibility officer at Microsoft\nSean Marihugh\u00A0 —\u00A0 Escalation Engineer at Microsoft\u00A0\nCrystal Jones\u00A0 — Escalation Engineer at Microsoft\nErin Williams\u00A0 —\u00A0 Senior Supportability Program Manager at Microsoft\u00A0\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "duration": "00:19:11"
+    },
+    {
+      "id": "75ea32a9-e077-49d2-f4e3-08dad179f3a3",
+      "title": "Minecraft: Beyond Just Building",
+      "published": "2017-07-26T16:36:37",
+      "url": "https://traffic.megaphone.fm/GLT6820904354.mp3",
+      "description": "With over 122 million copies sold, Minecraft is one of the most popular computer games of all time. Minecraft’s game play is designed to be completely open-ended. Now, people are using the game itself as a tool to change the world around them.\nThis episode brings you stories of how people around the world have used Minecraft to reinvent themselves, help others heal, say goodbye to a loved one, and empower their communities. \nShow Notes Learn more about the Block by Block Foundation at https://blockbyblock.org/. You can also download the “My Mother’s House” Minecraft Map at http://www.thecommonpeople.tv/.\nThis episode features:Lydia Winters\u00A0 — Brand Director at Mojang, formerly known as MinecraftChickJosh Wulf\u00A0 — creator of MCT1 and founder of Magikcraft.ioVictoria Bennett\u00A0 — poet and co-author of “My Mother’s House” Trupti Amritwar — Chief Executive Officer at Mumbai Environment and Social Network\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "duration": "00:28:27"
+    },
+    {
+      "id": "2e209ecc-8b5a-4482-f4e4-08dad179f3a3",
+      "title": "Gaming the System",
+      "published": "2017-07-19T16:00:00",
+      "url": "https://traffic.megaphone.fm/GLT1876415907.mp3",
+      "description": "Last year, the gaming industry made roughly $90 billion in sales worldwide. That’s more than double what movies made at the box office last year.\nAnd here’s why that comparison to Hollywood is relevant. Because, like with films, the most popular video games are HUGE. They have great graphics, popular characters, and the franchises keep getting repeated over and over again. Unfortunately, blockbuster games and movies can be as thin on diversity as they are on plot.\u00A0 \nIn this episode, we’re talking about The Moonlights and Napoleon Dynamites— the indie games that are breaking out, changing paradigms, and making a case for independence in gaming.\n\nThis episode features:\n\nNavid Khonsari — Co-Founder of iNK Stories\nLarry Hyrb —\u00A0 Xbox’s Major Nelson\nRik Eberhardt — Studio Manager at MIT Game Lab\nMia Consalvo —\u00A0 The Canada Research Chair in Game Studies and Design at Concordia University\u00A0\nSherida Halatoe —\u00A0 Found of Tiger & Squid Game Studio\nKarla Zimonja —\u00A0 Co-Founder of The Fullbright Company\nKatie Stone Perez —\u00A0 Developer Experience Lead at Xbox\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "duration": "00:24:02"
+    },
+    {
+      "id": "9a13812a-ae74-4834-f4e5-08dad179f3a3",
+      "title": "My Data, My Health, My Self ",
+      "published": "2017-07-05T16:00:00",
+      "url": "https://traffic.megaphone.fm/GLT8952278952.mp3",
+      "description": "We’re constantly collecting data about our health with brand new tools and methods. But how does this new data affect us individually and globally?\nFrom a mindful cyborg to the creator of a smart tampon,\u00A0 we meet those who are collecting and analyzing health data with brand new technology. This episode explores how data may be the key in solving health problems all around the world.\u00A0 \nThis episode features: \nChris Dancy — the World’s Most Connected Man/Mindful Cyborg\nGary Wolf — journalist and curator of Quantified Self\nEthan Jackson — Lead Researcher for Microsoft’s Project Premonition\nRidhi Tariyal — CEO of NextGen Jan\nZiad Sankari — founder of CardioDiagnostics\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "duration": "00:23:51"
+    },
+    {
+      "id": "9609225e-edaf-401c-f4e6-08dad179f3a3",
+      "title": "Securing a Digital Battlefield",
+      "published": "2017-06-28T16:00:00",
+      "url": "https://traffic.megaphone.fm/GLT4373816692.mp3",
+      "description": "In this episode, we examine a new battlefield: the cloud. The information we store in the cloud makes it especially vulnerable to attack. So, what it takes to create a safeguard against bad actors? We explore how a digital Geneva Convention could be the solution.\nYou can wait for the future to happen to you or engage with it right now and ahead of the curve on .future — a branded podcast from Microsoft, produced in partnership with Gimlet Creative.\nThis episode features: \nSteven Petrow — a journalist who writes about digital life\nScott Charney — a security expert at Microsoft\nCyrus Farivar — editor at Ars Technica\n\nBrad Smith — Microsoft’s president and chief legal officer\nHeidi Tworek — professor who writes about the history of media and technology\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "duration": "00:23:45"
+    },
+    {
+      "id": "f300f41b-e166-42df-f4e7-08dad179f3a3",
+      "title": "Trailer",
+      "published": "2017-06-20T18:00:00",
+      "url": "https://traffic.megaphone.fm/GLT6950890840.mp3?updated=1497996608",
+      "description": "A new series from Microsoft and Gimlet Creative. Cristina Quinn hosts as we explore what we can learn about ourselves from the choices we make about the stories we tell and the games we play—\u00A0 and how that all shapes the future we’ll be living in.\u00A0 You can wait for the future to happen to you or engage with it right now and ahead of the curve on .future—\u00A0 a branded podcast from Microsoft, produced in partnership with Gimlet Creative.\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "duration": "00:01:50"
+    }
+  ]
+}

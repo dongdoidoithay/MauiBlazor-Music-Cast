@@ -1,0 +1,240 @@
+﻿[
+  {
+    "id": "3bcf26de-8b44-4b07-85be-08dad179f39c",
+    "title": ".future",
+    "author": "Microsoft / Gimlet Creative",
+    "description": "The future isn’t random. It’s the result of the choices that we make now. We’ll be talking about technologies and industries that will define the next decade and beyond. Join our host Cristina Quinn, a science and technology reporter, as she dives into everything from Minecraft to cyber warfare. You can wait for the future to happen to you or engage with it right now and ahead of the curve on .future— a branded podcast from Microsoft, produced in partnership with Gimlet Creative.",
+    "image": "https://dotnetpodcastsstg.blob.core.windows.net/covers/.future.png",
+    "updated": "0001-01-01T00:00:00",
+    "link": "https://feeds.megaphone.fm/future",
+    "email": "podcasts@gimletmedia.com",
+    "language": "en",
+    "isFeatured": true,
+    "categories": [
+      {
+        "id": "5f923017-86da-4793-9332-7b74197acc51",
+        "genre": "Microsoft"
+      }
+    ],
+    "episodes": []
+  },
+  {
+    "id": "49f5ff47-fadc-48bd-85bd-08dad179f39c",
+    "title": "Merge Conflict",
+    "author": "soundbite.fm",
+    "description": "Merge Conflict is a weekly discussion with Frank and James on all things development, technology, & more. After years of being friends, Frank and James finally decided to sit down and start a podcast about their lives as mobile developers using C#, Xamarin, and .NET MAUI. Much more than just another mobile development podcast, Merge Conflict, reaches all areas of development including desktop, server, and of course mobile. They also cover fun things happening in the world of technology and gaming and whatever else happens to be on Frank's and James' minds. \n",
+    "image": "https://dotnetpodcastsstg.blob.core.windows.net/covers/Merge Conflict.jpg",
+    "updated": "2022-11-28T08:45:07",
+    "link": "http://www.mergeconflict.fm",
+    "email": "mergeconflictfm@gmail.com",
+    "language": "en-us",
+    "isFeatured": true,
+    "categories": [
+      {
+        "id": "a5ae013c-14a1-4c2d-a731-47fbbd0ba527",
+        "genre": "Community"
+      },
+      {
+        "id": "4d41bc8e-ef5e-439f-80fa-5e9873ea7a4a",
+        "genre": "Web"
+      },
+      {
+        "id": "2f07481d-5f3f-4bbf-923f-60e62fcfe4e7",
+        "genre": "Mobile"
+      },
+      {
+        "id": "7322b307-1431-4203-bda8-9161b60c45d0",
+        "genre": "Desktop"
+      },
+      {
+        "id": "bee871ad-750b-400b-91b0-c34056c92297",
+        "genre": "M365"
+      }
+    ],
+    "episodes": []
+  },
+  {
+    "id": "88e28e19-55c9-488a-85b9-08dad179f39c",
+    "title": "The .NET MAUI Podcast",
+    "author": "Xamarin",
+    "description": "Keep up with the latest news in the world of mobile & desktop development with the official .NET MAUI podcast! Join your hosts Matt Soucoup and James Montemagno as they discuss the latest and greatest in native cross-platform mobile and desktop \n cloud development in .NET MAUI, Visual Studio, C#, F#, .NET, App Center, and Azure. \n",
+    "image": "https://dotnetpodcastsstg.blob.core.windows.net/covers/The .NET MAUI Podcast.jpg",
+    "updated": "2022-10-21T16:54:05",
+    "link": "https://www.dotnetmauipodcast.com",
+    "email": "piboggan@microsoft.com",
+    "language": "en-us",
+    "isFeatured": true,
+    "categories": [
+      {
+        "id": "2f07481d-5f3f-4bbf-923f-60e62fcfe4e7",
+        "genre": "Mobile"
+      },
+      {
+        "id": "5f923017-86da-4793-9332-7b74197acc51",
+        "genre": "Microsoft"
+      },
+      {
+        "id": "7322b307-1431-4203-bda8-9161b60c45d0",
+        "genre": "Desktop"
+      }
+    ],
+    "episodes": []
+  },
+  {
+    "id": "e8d18ee7-466e-44ce-85b7-08dad179f39c",
+    "title": ".NET Rocks!",
+    "author": "Carl Franklin",
+    "description": ".NET Rocks! is an Internet Audio Talk Show for Microsoft .NET Developers.",
+    "image": "https://dotnetpodcastsstg.blob.core.windows.net/covers/.NET Rocks!.jpg",
+    "updated": "0001-01-01T00:00:00",
+    "link": "https://www.spreaker.com/show/5634793/episodes/feed",
+    "email": "carl@pwop.com",
+    "language": "en",
+    "isFeatured": false,
+    "categories": [
+      {
+        "id": "a5ae013c-14a1-4c2d-a731-47fbbd0ba527",
+        "genre": "Community"
+      }
+    ],
+    "episodes": []
+  },
+  {
+    "id": "5ef99099-9c6c-4581-85b2-08dad179f39c",
+    "title": "Adventures in .NET",
+    "author": "Caleb Wells, Shawn Clabough, Wai Liu",
+    "description": "Level up your .NET skills with our weekly discussion of C# and other Microsoft technologies for developers.",
+    "image": "https://dotnetpodcastsstg.blob.core.windows.net/covers/Adventures in .NET",
+    "updated": "0001-01-01T00:00:00",
+    "link": "https://topenddevs.com/podcasts/adventures-in-net",
+    "email": "chuck@topenddevs.com",
+    "language": "en-us",
+    "isFeatured": false,
+    "categories": [
+      {
+        "id": "a5ae013c-14a1-4c2d-a731-47fbbd0ba527",
+        "genre": "Community"
+      },
+      {
+        "id": "2f07481d-5f3f-4bbf-923f-60e62fcfe4e7",
+        "genre": "Mobile"
+      },
+      {
+        "id": "7322b307-1431-4203-bda8-9161b60c45d0",
+        "genre": "Desktop"
+      },
+      {
+        "id": "bee871ad-750b-400b-91b0-c34056c92297",
+        "genre": "M365"
+      }
+    ],
+    "episodes": []
+  },
+  {
+    "id": "dff2cbe9-6222-49e7-85ba-08dad179f39c",
+    "title": "Asp.Net Monsters",
+    "author": "Asp.Net Monsters",
+    "description": "",
+    "image": "https://dotnetpodcastsstg.blob.core.windows.net/covers/Asp.Net Monsters",
+    "updated": "2020-09-21T22:40:28",
+    "link": "https://listenbox.app/i/NRGnlt0wQqB7",
+    "email": "",
+    "language": "en",
+    "isFeatured": false,
+    "categories": [
+      {
+        "id": "a5ae013c-14a1-4c2d-a731-47fbbd0ba527",
+        "genre": "Community"
+      },
+      {
+        "id": "4d41bc8e-ef5e-439f-80fa-5e9873ea7a4a",
+        "genre": "Web"
+      }
+    ],
+    "episodes": []
+  },
+  {
+    "id": "94828169-f41c-4658-85bb-08dad179f39c",
+    "title": "CodeNewbie",
+    "author": "CodeNewbie",
+    "description": "The CodeNewbie podcast was born from CodeNewbie, an organization which fosters a supportive, international community of people learning to code. Each season, host Saron Yitbarek delivers stories and interviews from people of diverse backgrounds and expertise about their coding journeys, as well as beginner friendly discussions about the tech you should know about.",
+    "image": "https://dotnetpodcastsstg.blob.core.windows.net/covers/CodeNewbie.png",
+    "updated": "0001-01-01T00:00:00",
+    "link": "http://feeds.codenewbie.org/cnpodcast.xml",
+    "email": "hello@codenewbie.org",
+    "language": "en-US",
+    "isFeatured": false,
+    "categories": [
+      {
+        "id": "a5ae013c-14a1-4c2d-a731-47fbbd0ba527",
+        "genre": "Community"
+      }
+    ],
+    "episodes": []
+  },
+  {
+    "id": "3c19d487-f956-44c7-85af-08dad179f39c",
+    "title": "Gone Mobile",
+    "author": "Greg Shackles, Jonathan Dick",
+    "description": "Gone Mobile is a podcast discussing the latest in mobile development, with a healthy bias towards Xamarin technologies. The podcast covers in-depth topics with guests ranging from Android, iOS & Windows development to mobile marketing and design, as well as other mobile or not so mobile related technologies.\n",
+    "image": "https://dotnetpodcastsstg.blob.core.windows.net/covers/Gone Mobile.jpg",
+    "updated": "2019-10-23T13:38:54",
+    "link": "https://www.gonemobile.io",
+    "email": "jondick@gmail.com",
+    "language": "en-us",
+    "isFeatured": false,
+    "categories": [
+      {
+        "id": "a5ae013c-14a1-4c2d-a731-47fbbd0ba527",
+        "genre": "Community"
+      },
+      {
+        "id": "2f07481d-5f3f-4bbf-923f-60e62fcfe4e7",
+        "genre": "Mobile"
+      }
+    ],
+    "episodes": []
+  },
+  {
+    "id": "cf0079e8-c4d0-4717-85b5-08dad179f39c",
+    "title": "Hanselminutes with Scott Hanselman",
+    "author": "Scott Hanselman",
+    "description": "Hanselminutes is Fresh Air for Developers. A weekly commute-time podcast that promotes fresh technology and fresh voices. Talk and Tech for Developers, Life-long Learners, and Technologists.",
+    "image": "https://dotnetpodcastsstg.blob.core.windows.net/covers/Hanselminutes with Scott Hanselman.jpg",
+    "updated": "2022-11-24T21:00:00",
+    "link": "https://feeds.simplecast.com/gvtxUiIf",
+    "email": "scott@hanselman.com",
+    "language": "en-us",
+    "isFeatured": false,
+    "categories": [
+      {
+        "id": "a5ae013c-14a1-4c2d-a731-47fbbd0ba527",
+        "genre": "Community"
+      }
+    ],
+    "episodes": []
+  },
+  {
+    "id": "af8ff33a-4a12-4c03-85b6-08dad179f39c",
+    "title": "Microsoft 365 Developer Podcast",
+    "author": "Jeremy Thake / Paul Schaeflein",
+    "description": "Jeremy Thake and Paul Schaeflein talk Microsoft 365 with fellow industry experts. The show formerly known as Office 365 Podcast is back!",
+    "image": "https://dotnetpodcastsstg.blob.core.windows.net/covers/Microsoft 365 Developer Podcast.jpg",
+    "updated": "2022-11-21T17:00:00",
+    "link": "https://www.m365devpodcast.com/feed.xml",
+    "email": "",
+    "language": "en",
+    "isFeatured": false,
+    "categories": [
+      {
+        "id": "5f923017-86da-4793-9332-7b74197acc51",
+        "genre": "Microsoft"
+      },
+      {
+        "id": "bee871ad-750b-400b-91b0-c34056c92297",
+        "genre": "M365"
+      }
+    ],
+    "episodes": []
+  }
+]
