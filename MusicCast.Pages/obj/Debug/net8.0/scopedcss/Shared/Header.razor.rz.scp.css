@@ -1,0 +1,23 @@
+.header[b-9dk3mj320u]  .header__logo {
+    display: flex;
+    width: 120px;
+    padding: 12px 14px;
+    align-items: center;
+}
+
+    .header[b-9dk3mj320u]  .header__logo img,
+    .header[b-9dk3mj320u]  .header__logo svg {
+        width: 100%;
+        height: auto;
+    }
+
+    .header[b-9dk3mj320u]  .header__logo .logo-label {
+        fill: var(--c-neutral-grey8);
+    }
+
+@media screen and (min-width: 992px) {
+    .header[b-9dk3mj320u]  .header__logo {
+        width: 230px;
+        padding: 43px 41px;
+    }
+}

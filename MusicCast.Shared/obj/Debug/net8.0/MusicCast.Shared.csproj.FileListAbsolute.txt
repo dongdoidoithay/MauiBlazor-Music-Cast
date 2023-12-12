@@ -1,0 +1,12 @@
+D:\App\MAUI\Maui-Hybrid\MauiBlazor-Music-Cast\MusicCast.Shared\bin\Debug\net8.0\MusicCast.Shared.deps.json
+D:\App\MAUI\Maui-Hybrid\MauiBlazor-Music-Cast\MusicCast.Shared\bin\Debug\net8.0\MusicCast.Shared.dll
+D:\App\MAUI\Maui-Hybrid\MauiBlazor-Music-Cast\MusicCast.Shared\bin\Debug\net8.0\MusicCast.Shared.pdb
+D:\App\MAUI\Maui-Hybrid\MauiBlazor-Music-Cast\MusicCast.Shared\obj\Debug\net8.0\MusicCast.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\App\MAUI\Maui-Hybrid\MauiBlazor-Music-Cast\MusicCast.Shared\obj\Debug\net8.0\MusicCast.Shared.AssemblyInfoInputs.cache
+D:\App\MAUI\Maui-Hybrid\MauiBlazor-Music-Cast\MusicCast.Shared\obj\Debug\net8.0\MusicCast.Shared.AssemblyInfo.cs
+D:\App\MAUI\Maui-Hybrid\MauiBlazor-Music-Cast\MusicCast.Shared\obj\Debug\net8.0\MusicCast.Shared.csproj.CoreCompileInputs.cache
+D:\App\MAUI\Maui-Hybrid\MauiBlazor-Music-Cast\MusicCast.Shared\obj\Debug\net8.0\MusicCast.Shared.sourcelink.json
+D:\App\MAUI\Maui-Hybrid\MauiBlazor-Music-Cast\MusicCast.Shared\obj\Debug\net8.0\MusicCast.Shared.dll
+D:\App\MAUI\Maui-Hybrid\MauiBlazor-Music-Cast\MusicCast.Shared\obj\Debug\net8.0\refint\MusicCast.Shared.dll
+D:\App\MAUI\Maui-Hybrid\MauiBlazor-Music-Cast\MusicCast.Shared\obj\Debug\net8.0\MusicCast.Shared.pdb
+D:\App\MAUI\Maui-Hybrid\MauiBlazor-Music-Cast\MusicCast.Shared\obj\Debug\net8.0\ref\MusicCast.Shared.dll

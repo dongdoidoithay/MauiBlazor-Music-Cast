@@ -1,0 +1,13 @@
+D:\App\MAUI\Maui-Hybrid\MauiBlazor-Music-Cast\Lib\SharedMauiLib\bin\Debug\net7.0-windows10.0.19041.0\SharedMauiLib.deps.json
+D:\App\MAUI\Maui-Hybrid\MauiBlazor-Music-Cast\Lib\SharedMauiLib\bin\Debug\net7.0-windows10.0.19041.0\SharedMauiLib.dll
+D:\App\MAUI\Maui-Hybrid\MauiBlazor-Music-Cast\Lib\SharedMauiLib\bin\Debug\net7.0-windows10.0.19041.0\SharedMauiLib.pdb
+D:\App\MAUI\Maui-Hybrid\MauiBlazor-Music-Cast\Lib\SharedMauiLib\obj\Debug\net7.0-windows10.0.19041.0\SharedMauiLib.csproj.AssemblyReference.cache
+D:\App\MAUI\Maui-Hybrid\MauiBlazor-Music-Cast\Lib\SharedMauiLib\obj\Debug\net7.0-windows10.0.19041.0\SharedMauiLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\App\MAUI\Maui-Hybrid\MauiBlazor-Music-Cast\Lib\SharedMauiLib\obj\Debug\net7.0-windows10.0.19041.0\SharedMauiLib.AssemblyInfoInputs.cache
+D:\App\MAUI\Maui-Hybrid\MauiBlazor-Music-Cast\Lib\SharedMauiLib\obj\Debug\net7.0-windows10.0.19041.0\SharedMauiLib.AssemblyInfo.cs
+D:\App\MAUI\Maui-Hybrid\MauiBlazor-Music-Cast\Lib\SharedMauiLib\obj\Debug\net7.0-windows10.0.19041.0\SharedMauiLib.csproj.CoreCompileInputs.cache
+D:\App\MAUI\Maui-Hybrid\MauiBlazor-Music-Cast\Lib\SharedMauiLib\obj\Debug\net7.0-windows10.0.19041.0\SharedMauiLib.sourcelink.json
+D:\App\MAUI\Maui-Hybrid\MauiBlazor-Music-Cast\Lib\SharedMauiLib\obj\Debug\net7.0-windows10.0.19041.0\SharedMauiLib.dll
+D:\App\MAUI\Maui-Hybrid\MauiBlazor-Music-Cast\Lib\SharedMauiLib\obj\Debug\net7.0-windows10.0.19041.0\refint\SharedMauiLib.dll
+D:\App\MAUI\Maui-Hybrid\MauiBlazor-Music-Cast\Lib\SharedMauiLib\obj\Debug\net7.0-windows10.0.19041.0\SharedMauiLib.pdb
+D:\App\MAUI\Maui-Hybrid\MauiBlazor-Music-Cast\Lib\SharedMauiLib\obj\Debug\net7.0-windows10.0.19041.0\ref\SharedMauiLib.dll

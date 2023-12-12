@@ -1,0 +1,592 @@
+@import '_content/MusicCast.Components/MusicCast.Components.bundle.scp.css';
+
+/* _content/MusicCast.Pages/Pages/DiscoverPage.razor.rz.scp.css */
+.categories[b-xmgi8q23r8] {
+    align-items: flex-end;
+    flex-direction: column;
+    margin-bottom: 8px;
+    padding: 0 16px;
+}
+
+[b-xmgi8q23r8] .categories .appLink {
+    margin-bottom: 16px;
+}
+
+@media screen and (min-width: 1280px) {
+    .categories[b-xmgi8q23r8] {
+        display: flex;
+        margin-bottom: 0;
+        padding: 0 48px;
+    }
+}
+/* _content/MusicCast.Pages/Pages/ShowPage.razor.rz.scp.css */
+.showEpisodes[b-3kek8jmm8i] {
+    padding: 0 16px;
+}
+
+.showEpisodes[b-3kek8jmm8i]  .subtitlePage {
+    margin-bottom: 0;
+}
+
+@media screen and (min-width: 992px) {
+    .showEpisodes[b-3kek8jmm8i] {
+        padding: 0 48px;
+    }
+}
+
+@media screen and (min-width: 1366px) {
+    .showEpisodes[b-3kek8jmm8i] {
+        margin-left: 332px;
+    }
+}
+/* _content/MusicCast.Pages/Shared/Header.razor.rz.scp.css */
+.header[b-9dk3mj320u]  .header__logo {
+    display: flex;
+    width: 120px;
+    padding: 12px 14px;
+    align-items: center;
+}
+
+    .header[b-9dk3mj320u]  .header__logo img,
+    .header[b-9dk3mj320u]  .header__logo svg {
+        width: 100%;
+        height: auto;
+    }
+
+    .header[b-9dk3mj320u]  .header__logo .logo-label {
+        fill: var(--c-neutral-grey8);
+    }
+
+@media screen and (min-width: 992px) {
+    .header[b-9dk3mj320u]  .header__logo {
+        width: 230px;
+        padding: 43px 41px;
+    }
+}
+/* _content/MusicCast.Pages/Shared/Lists/EpisodeListItem.razor.rz.scp.css */
+.episode-play[b-28b3qf5rzz] {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    background: var(--gradient-final);
+    cursor: pointer;
+}
+
+.episode-play > span[b-28b3qf5rzz] {
+    color: var(--c-neutral-white);
+    font-size: 24px;
+}
+
+.episode[b-28b3qf5rzz] {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    gap: 16px 32px;
+    padding: 28px 2px;
+    grid-template-areas:
+        'play resumeTitle'
+        'play actions';
+    border-bottom: 1px solid var(--c-neutral-grey4);
+}
+
+.episode:last-of-type[b-28b3qf5rzz] {
+    border-bottom: none;
+}
+
+.episode-sound[b-28b3qf5rzz] {
+    align-items: center;
+    grid-area: play;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    min-width: 44px;
+}
+
+.episode-length[b-28b3qf5rzz] {
+    color: var(--c-neutral-grey7);
+    font-family: var(--ff-regular);
+    font-size: var(--text-s-fs);
+    line-height: var(--text-s-lh);
+}
+
+.episode-resumeTitle[b-28b3qf5rzz] {
+    align-items: flex-start;
+    display: flex;
+    grid-area: resumeTitle;
+}
+
+.episode-resumeTitle[b-28b3qf5rzz]  picture {
+    margin-right: 12px;
+    min-width: 70px;
+    width: 70px;
+}
+
+.episode-resumeTitle-title[b-28b3qf5rzz] {
+    color: var(--c-neutral-grey8);
+    font-family: var(--ff-semibold);
+    font-size: var(--subheadings-s6-fs);
+    line-height: var(--subheadings-s6-lh);
+}
+
+.episode-resumeTitle-showTitle[b-28b3qf5rzz] {
+    color: var(--c-neutral-grey8);
+    font-family: var(--ff-semibold);
+    font-size: var(--text-m-fs);
+    line-height: var(--text-m-lh);
+}
+
+.episode-resumeTitle-title.is-playing[b-28b3qf5rzz] {
+    color: var(--c-primary);
+}
+
+.episode-resumeTitle-date[b-28b3qf5rzz] {
+    color: var(--c-neutral-grey7);
+    font-family: var(--ff-regular);
+    font-size: var(--text-s-fs);
+    line-height: var(--text-s-lh);
+}
+
+.episode-description[b-28b3qf5rzz] {
+    grid-area: resumeDescription;
+    color: var(--c-neutral-dark);
+    font-family: var(--ff-regular);
+    font-size: var(--text-m-fs);
+    line-height: var(--text-m-lh);
+    display: none;
+    word-break: break-word;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.episode-description[b-28b3qf5rzz]  a {
+    color: var(--c-primary);
+    font-family: var(--ff-semibold);
+    font-size: var(--text-m-fs);
+    line-height: var(--text-m-lh);
+}
+
+.episode-description[b-28b3qf5rzz]  a:hover {
+    color: var(--c-primary-light);
+    text-decoration: underline;
+}
+
+.episode-description[b-28b3qf5rzz]  a:active {
+    color: var(--c-primary-dark);
+    text-decoration: none;
+}
+
+.episode-actions[b-28b3qf5rzz] {
+    display: flex;
+    grid-area: actions;
+    gap: 16px;
+    align-items: center;
+}
+
+.episode-actions-share[b-28b3qf5rzz],
+.episode-actions-later[b-28b3qf5rzz] {
+    color: var(--c-primary);
+    font-size: 24px;
+    cursor: pointer;
+}
+
+@media screen and (min-width: 768px) {
+    .episode[b-28b3qf5rzz] {
+        gap: 16px 48px;
+        grid-template-areas:
+            'play resumeTitle actions'
+            'play resumeDescription actions';
+        grid-template-columns: auto 1fr auto;
+    }
+
+    .episode-description[b-28b3qf5rzz] {
+        display: -webkit-box;
+    }
+}
+
+@media screen and (min-width: 992px) {
+    .episode-actions[b-28b3qf5rzz] {
+        align-self: flex-start;
+        padding-top: 67px;
+    }
+}
+/* _content/MusicCast.Pages/Shared/MainLayout.razor.rz.scp.css */
+.page[b-cki60iqy49] {
+    background-color: var(--c-neutral-grey1);
+    display: grid;
+    grid-template-areas:
+        "header"
+        "main-view"
+        "player-bar"
+        "nav-bar";
+    grid-template-columns: 1fr;
+    grid-template-rows: 56px 1fr auto auto;
+    position: relative;
+    height: 100%;
+    width: 100%;
+}
+
+main[b-cki60iqy49] {
+    grid-area: main-view;
+    overflow: hidden;
+    display: flex;
+    justify-content: inherit;
+    width: 100%;
+}
+
+    main > article[b-cki60iqy49] {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+
+.page__header[b-cki60iqy49] {
+    grid-area: header;
+/*    height: 100%;
+    box-sizing: border-box;*/
+}
+
+.page__sidebar[b-cki60iqy49] {
+    grid-area: nav-bar;
+    background-color: var(--c-neutral-white-complementary);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1), 0 1px 4px rgba(0, 0, 0, 0.1), 0 1px 1px rgba(0, 0, 0, 0.05);
+    color: var(--c-neutral-grey8);
+    width: 100%;
+    z-index: 5;
+}
+
+[b-cki60iqy49] .footerPlayer {
+    grid-area: player-bar;
+    z-index: 1;
+}
+
+[b-cki60iqy49] .containerPage {
+    overflow-x: hidden;
+    overflow-y: auto;
+    padding-right: 8px;
+    padding-bottom: 16px;
+    margin-right: -8px;
+    margin-top: 8px;
+    height: 100%;
+}
+
+[b-cki60iqy49] .containerPage--featured {
+    padding-bottom: 16px;
+}
+
+[b-cki60iqy49] .titleWrapper {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 24px;
+    padding: 0 16px;
+    flex-direction: column-reverse;
+    align-items: flex-start;
+}
+
+[b-cki60iqy49] .contentWrapper {
+    padding-left: 16px;
+    padding-right: 16px;
+}
+
+[b-cki60iqy49] .appLink {
+    color: var(--c-primary);
+    font-family: var(--ff-semibold);
+    display: inline-flex;
+    align-items: center;
+}
+
+    [b-cki60iqy49] .appLink:hover {
+        color: var(--c-primary-dark);
+        cursor: pointer;
+    }
+
+[b-cki60iqy49] .appLink-icon {
+    font-size: 16px;
+    margin-right: 2px;
+}
+
+@media screen and (min-width: 992px) {
+    .page[b-cki60iqy49] {
+        grid-template-areas:
+            "header main-view"
+            "nav-bar main-view"
+            "player-bar player-bar";
+        grid-template-columns: auto 1fr;
+        grid-template-rows: 142px 1fr auto;
+    }
+
+    main > article[b-cki60iqy49] {
+        padding-top: 39px;
+        padding-bottom: 0;
+    }
+
+    .page__header[b-cki60iqy49] {
+        background-color: var(--c-neutral-white-complementary);
+    }
+
+    .page__sidebar[b-cki60iqy49] {
+        box-shadow: 0 0 0;
+        height: 100%;
+        position: sticky;
+        top: 0;
+        width: 312px;
+        grid-area: nav-bar;
+        z-index: unset;
+    }
+
+    [b-cki60iqy49] .containerPage {
+        padding-bottom: 39px;
+        padding-right: 0;
+        margin-right: 10px;
+        margin-top: 0;
+    }
+
+    [b-cki60iqy49] .containerPage--featured {
+        padding-bottom: 0;
+    }
+
+    [b-cki60iqy49] .contentWrapper {
+        padding-left: 48px;
+        padding-right: 48px;
+    }
+}
+
+@media screen and (min-width: 1280px) {
+    [b-cki60iqy49] .titleWrapper {
+        padding: 0 48px;
+        flex-direction: row;
+        align-items: flex-end;
+    }
+}
+/* _content/MusicCast.Pages/Shared/NavMenu.razor.rz.scp.css */
+.navbarApp[b-i6wxjii58j] {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.navbarApp__wrapper[b-i6wxjii58j] {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+}
+
+.navbarApp .sidebar-image[b-i6wxjii58j] {
+    display: none;
+    position: fixed;
+    bottom: 0;
+    z-index: -1;
+}
+
+.navbarApp .sidebar-image-path[b-i6wxjii58j] {
+    fill: var(--c-waves-image);
+} 
+
+[b-i6wxjii58j] .navbarApp-link {
+    align-items: center;
+    color: var(--c-neutral-grey8);
+    display: flex;
+    flex-direction: column;
+    padding: 12px 8px;
+    text-decoration: none;
+    text-align: center;
+}
+
+[b-i6wxjii58j] .navbarApp-link.active,
+[b-i6wxjii58j] .navbarApp-link:hover {
+    color: var(--c-primary);
+}
+
+.navbarApp-linkLabel[b-i6wxjii58j] {
+    font-family: var(--ff-semibold);
+    font-size: var(--text-s-fs);
+    line-height: var(--text-s-lh);
+    margin-top: 8px;
+}
+
+.navbarApp-linkLabel > span[b-i6wxjii58j] {
+    display: none;
+    margin-right: 8px;
+}
+
+.navbarApp-linkIcon[b-i6wxjii58j] {
+    font-size: 24px;
+}
+
+@media screen and (min-width: 992px) {
+    .navbarApp .sidebar-image[b-i6wxjii58j] {
+        display: block;
+    }
+
+    .navbarApp__wrapper[b-i6wxjii58j] {
+        display: flex;
+        flex-direction: column;
+        flex-grow: 1;
+        grid-template-columns: inherit;
+    }
+
+    [b-i6wxjii58j] .navbarApp-link {
+        flex-direction: row;
+        padding: 12px 48px;
+    }
+
+    [b-i6wxjii58j] .navbarApp-link.active,
+    [b-i6wxjii58j] .navbarApp-link:hover {
+        background-color: var(--c-primary-xxlight);
+    }
+
+    .navbarApp-item[b-i6wxjii58j] {
+        margin-bottom: 24px;
+    }
+
+    .navbarApp-linkLabel[b-i6wxjii58j] {
+        font-size: var(--text-l-fs);
+        line-height: var(--text-l-lh);
+        margin-top: 0;
+    }
+
+    .navbarApp-linkLabel > span[b-i6wxjii58j] {
+        display: inline-block;
+    }
+
+    .navbarApp-linkIcon[b-i6wxjii58j] {
+        margin-bottom: 0;
+        margin-right: 16px;
+    }
+}
+/* _content/MusicCast.Pages/Shared/SearchBar.razor.rz.scp.css */
+.searchBarForm[b-ozvne0u3hj] {
+    height: auto;
+    margin-bottom: 10px;
+    padding: 0 16px;
+}
+
+.searchBar[b-ozvne0u3hj] {
+    position: relative;
+}
+
+.searchBar__icon[b-ozvne0u3hj] {
+    color: var(--c-primary);
+    font-size: 24px;
+    position: absolute;
+    top: 50%;
+    left: 6px;
+    transform: translateY(-50%);
+}
+
+.searchBar__input[b-ozvne0u3hj] {
+    appearance: none;
+    outline: 0 none;
+    font-size: var(--text-m-fs);
+    line-height: var(--text-m-lh);
+    background-color: var(--c-searchbar);
+    border: 1px solid var(--c-neutral-grey4);
+    border-radius: 4px;
+    box-sizing: border-box;
+    height: 36px;
+    padding: 6px 6px 6px 36px;
+    max-width: 460px;
+    display: block;
+    width: 100%;
+}
+
+.searchBar__input[b-ozvne0u3hj],
+.searchBar__input[b-ozvne0u3hj]::placeholder {
+    color: var(--c-neutral-grey8);
+}
+
+.searchBar__input:hover[b-ozvne0u3hj] {
+    border-color: var(--c-neutral-grey6);
+}
+
+.searchBar__input:active[b-ozvne0u3hj],
+.searchBar__input:focus[b-ozvne0u3hj] {
+    border-color: var(--c-primary);
+}
+
+@media screen and (min-width: 992px) {
+    .searchBarForm[b-ozvne0u3hj] {
+        padding: 0 48px;
+    }
+}
+/* _content/MusicCast.Pages/Shared/ShowResume.razor.rz.scp.css */
+.showResume[b-naquryx03d] {
+    align-items: stretch;
+    display: grid;
+    gap: 0 32px;
+    padding: 0 16px;
+    grid-template-columns: 156px auto;
+    grid-template-areas:
+        "showPicture showResumeInfo"
+        "buttonApp buttonApp"
+        "showResumeDescription showResumeDescription";
+}
+
+    .showResume:not(:last-child)[b-naquryx03d] {
+        margin-bottom: 32px;
+    }
+
+.showResume-picture[b-naquryx03d] {
+    grid-area: showPicture;
+}
+
+.showResume-info[b-naquryx03d] {
+    display: flex;
+    flex-direction: column;
+    grid-area: showResumeInfo;
+    gap: 8px;
+    margin-bottom: 8px;
+}
+
+.showResume-title[b-naquryx03d] {
+    color: var(--c-neutral-grey8);
+    font-family: var(--ff-semibold);
+    font-size: var(--headlines-h6-fs);
+    line-height: var(--headlines-h6-lh);
+}
+
+.showResume-author[b-naquryx03d] {
+    color: var(--c-neutral-grey7);
+    font-size: var(--text-s-fs);
+    line-height: var(--text-s-lh);
+}
+
+.showResume-description[b-naquryx03d] {
+    grid-area: showResumeDescription;
+    max-width: 796px;
+    margin-bottom: 12px;
+    font-size: var(--text-m-fs);
+    line-height: var(--text-m-lh);
+}
+
+.showResume .buttonApp[b-naquryx03d] {
+    margin: 24px 0;
+}
+
+@media screen and (min-width: 992px) {
+    .showResume[b-naquryx03d] {
+        grid-template-columns: 300px auto;
+        padding: 0 48px;
+        grid-template-areas:
+            "showPicture showResumeInfo"
+            "showPicture showResumeDescription"
+            "showPicture buttonApp";
+    }
+
+        .showResume .buttonApp[b-naquryx03d] {
+            margin: 0;
+            width: fit-content;
+        }
+
+    .showResume-title[b-naquryx03d] {
+        font-size: var(--headlines-h4-fs);
+        line-height: var(--headlines-h4-lh);
+    }
+
+    .showResume-author[b-naquryx03d] {
+        font-size: var(--text-m-fs);
+        line-height: var(--text-m-lh);
+    }
+}
