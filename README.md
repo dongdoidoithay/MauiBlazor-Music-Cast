@@ -1,9 +1,12 @@
 # MauiBlazor-Music-Cast
 hybrid App Play Music mp3 [.....]
+
+[Web site Manga](https://unionmangasbr.org/)
 # Tham khảo
-https://github.com/microsoft/dotnet-podcasts/
+[dotnet-podcasts](https://github.com/microsoft/dotnet-podcasts/)
 
 # Android WAKE_LOCK | sửa lỗi click play running không phát âm thanh
+```sh
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application 
@@ -17,3 +20,4 @@ https://github.com/microsoft/dotnet-podcasts/
     <uses-permission android:name="android.permission.INTERNET" />
 	<uses-permission android:name="android.permission.WAKE_LOCK" />
 </manifest>
+```
