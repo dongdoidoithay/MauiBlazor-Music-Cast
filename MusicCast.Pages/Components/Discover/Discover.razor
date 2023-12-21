@@ -1,0 +1,59 @@
+﻿@inject ILogger<Discover> _logger
+@inject NavigationManager NavigationManager
+@implements IDisposable
+@inject AppService AppService
+@inject PlayerService PlayerService
+@inject SubscriptionsService SubscriptionsService
+@inject PersistentComponentState ApplicationState
+
+
+<div class="song-menu-container">
+   
+</div>
+@code {
+    private const int MaxShows = 10;
+    private const int MaxCategories = 5;
+    private int CurrentPage = 1;
+
+
+    private ResponseDataLastUppdate lastUpdate;
+
+    private IEnumerable<Category>? topCategories;
+    private PersistingComponentStateSubscription _persistingSubscription;
+
+    private bool _isLoading = false;
+    private bool _pageEnd = false;
+    protected override async Task OnInitializedAsync()
+    {
+        await base.OnInitializedAsync();
+        _persistingSubscription = ApplicationState.RegisterOnPersisting(PersistShows);
+
+        if (!ApplicationState.TryTakeFromJson<ResponseDataLastUppdate>("dataLastUpdate-" + CurrentPage, out var restored))
+        {
+            lastUpdate = await AppService.GetDataLastUpdate(CurrentPage);
+        }
+        else
+        {
+            lastUpdate = restored!;
+        }
+        _isLoading = false;
+    }
+
+    private async Task FetchShows(string? searchValue = null)
+    {
+        _isLoading = true;
+        // var searchShows = await PodcastService.GetShows(MaxShows, searchValue);
+        // UpdateGroupedShowsAndCategories(searchShows);
+    }
+
+    private Task PersistShows()
+    {
+        ApplicationState.PersistAsJson("dataLastUpdate-" + CurrentPage, lastUpdate);
+        return Task.CompletedTask;
+    }
+
+    public void Dispose()
+    {
+        _persistingSubscription.Dispose();
+    }
+}

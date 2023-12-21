@@ -3,7 +3,7 @@
         <Picture Title="@Title" Image="@Image" />
     </div>
 
-    <div class="showResume-info">
+    @* <div class="showResume-info">
         <h1 class="showResume-title">@Title</h1>
         <h2 class="showResume-author">@Author</h2>
         <Tags Items="@Categories" TItem="string">
@@ -11,7 +11,7 @@
                 <span>@item</span>
             </ItemTemplate>
         </Tags>
-    </div>
+    </div> *@
 
     <button class="buttonApp @(IsSubscribed ? "secondary" : "primary")" title="@(IsSubscribed ? "Unsubscribe" : "Subscribe")" @onclick="OnSubscriptionChange">
         <span class="buttonApp-icon @(IsSubscribed ? "icon-subscribed-line" : "icon-add-line")"></span>

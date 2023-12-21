@@ -1,4 +1,4 @@
-﻿using MusicCast.Components;
+﻿using MusicCast.Pages.DI;
 using MusicCast.Pages.Models;
 
 namespace MusicCast.Pages.Data;
@@ -46,7 +46,7 @@ public class ListenLaterService
         return _episodes;
     }
 
-    public async Task<bool> IsListenLaterEpisodeAsync(Guid episodeId)
+    public async Task<bool> IsListenLaterEpisodeAsync(string episodeId)
     {
         await InitializeAsync();
         return _episodes?.Any(s => s.Id == episodeId) ?? false;
@@ -66,7 +66,7 @@ public class ListenLaterService
         }
     }
 
-    public async Task RemoveListenLaterEpisodeAsync(Guid episodeId)
+    public async Task RemoveListenLaterEpisodeAsync(string episodeId)
     {
         await InitializeAsync();
         var episode = _episodes.FirstOrDefault(s => s.Id == episodeId);

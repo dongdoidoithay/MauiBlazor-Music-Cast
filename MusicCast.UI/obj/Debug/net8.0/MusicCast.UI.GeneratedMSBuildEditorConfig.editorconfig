@@ -1,0 +1,35 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows,browser
+build_property.RootNamespace = MusicCast.UI
+build_property.RootNamespace = MusicCast.UI
+build_property.ProjectDir = D:\App\MAUI\Maui-Hybrid\MauiBlazor-Music-Cast\MusicCast.UI\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\App\MAUI\Maui-Hybrid\MauiBlazor-Music-Cast\MusicCast.UI
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/App/MAUI/Maui-Hybrid/MauiBlazor-Music-Cast/MusicCast.UI/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/App/MAUI/Maui-Hybrid/MauiBlazor-Music-Cast/MusicCast.UI/Components/Discover/Discover.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xEaXNjb3ZlclxEaXNjb3Zlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-jogmrzey90
+
+[D:/App/MAUI/Maui-Hybrid/MauiBlazor-Music-Cast/MusicCast.UI/Pages/DiscoverPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGlzY292ZXJQYWdlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-z9rmbgchlm
+
+[D:/App/MAUI/Maui-Hybrid/MauiBlazor-Music-Cast/MusicCast.UI/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-5zwv9rtmd3

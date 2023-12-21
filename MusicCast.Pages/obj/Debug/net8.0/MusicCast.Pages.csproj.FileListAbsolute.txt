@@ -1,11 +1,8 @@
-D:\App\MAUI\Maui-Hybrid\MauiBlazor-Music-Cast\MusicCast.Pages\bin\Debug\net8.0\MusicCast.Components.staticwebassets.runtime.json
 D:\App\MAUI\Maui-Hybrid\MauiBlazor-Music-Cast\MusicCast.Pages\bin\Debug\net8.0\MusicCast.Pages.staticwebassets.runtime.json
 D:\App\MAUI\Maui-Hybrid\MauiBlazor-Music-Cast\MusicCast.Pages\bin\Debug\net8.0\MusicCast.Pages.deps.json
 D:\App\MAUI\Maui-Hybrid\MauiBlazor-Music-Cast\MusicCast.Pages\bin\Debug\net8.0\MusicCast.Pages.dll
 D:\App\MAUI\Maui-Hybrid\MauiBlazor-Music-Cast\MusicCast.Pages\bin\Debug\net8.0\MusicCast.Pages.pdb
-D:\App\MAUI\Maui-Hybrid\MauiBlazor-Music-Cast\MusicCast.Pages\bin\Debug\net8.0\MusicCast.Components.dll
 D:\App\MAUI\Maui-Hybrid\MauiBlazor-Music-Cast\MusicCast.Pages\bin\Debug\net8.0\MusicCast.Shared.dll
-D:\App\MAUI\Maui-Hybrid\MauiBlazor-Music-Cast\MusicCast.Pages\bin\Debug\net8.0\MusicCast.Components.pdb
 D:\App\MAUI\Maui-Hybrid\MauiBlazor-Music-Cast\MusicCast.Pages\bin\Debug\net8.0\MusicCast.Shared.pdb
 D:\App\MAUI\Maui-Hybrid\MauiBlazor-Music-Cast\MusicCast.Pages\obj\Debug\net8.0\MusicCast.Pages.csproj.AssemblyReference.cache
 D:\App\MAUI\Maui-Hybrid\MauiBlazor-Music-Cast\MusicCast.Pages\obj\Debug\net8.0\MusicCast.Pages.GeneratedMSBuildEditorConfig.editorconfig
@@ -20,8 +17,12 @@ D:\App\MAUI\Maui-Hybrid\MauiBlazor-Music-Cast\MusicCast.Pages\obj\Debug\net8.0\s
 D:\App\MAUI\Maui-Hybrid\MauiBlazor-Music-Cast\MusicCast.Pages\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MusicCast.Pages.props
 D:\App\MAUI\Maui-Hybrid\MauiBlazor-Music-Cast\MusicCast.Pages\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MusicCast.Pages.props
 D:\App\MAUI\Maui-Hybrid\MauiBlazor-Music-Cast\MusicCast.Pages\obj\Debug\net8.0\staticwebassets.pack.json
+D:\App\MAUI\Maui-Hybrid\MauiBlazor-Music-Cast\MusicCast.Pages\obj\Debug\net8.0\scopedcss\Components\Discover\Discover.razor.rz.scp.css
+D:\App\MAUI\Maui-Hybrid\MauiBlazor-Music-Cast\MusicCast.Pages\obj\Debug\net8.0\scopedcss\Components\Player\FloatingPlayer.razor.rz.scp.css
 D:\App\MAUI\Maui-Hybrid\MauiBlazor-Music-Cast\MusicCast.Pages\obj\Debug\net8.0\scopedcss\Pages\DiscoverPage.razor.rz.scp.css
 D:\App\MAUI\Maui-Hybrid\MauiBlazor-Music-Cast\MusicCast.Pages\obj\Debug\net8.0\scopedcss\Pages\ShowPage.razor.rz.scp.css
+D:\App\MAUI\Maui-Hybrid\MauiBlazor-Music-Cast\MusicCast.Pages\obj\Debug\net8.0\scopedcss\Shared\Base\EndLine.razor.rz.scp.css
+D:\App\MAUI\Maui-Hybrid\MauiBlazor-Music-Cast\MusicCast.Pages\obj\Debug\net8.0\scopedcss\Shared\Base\Loading.razor.rz.scp.css
 D:\App\MAUI\Maui-Hybrid\MauiBlazor-Music-Cast\MusicCast.Pages\obj\Debug\net8.0\scopedcss\Shared\Header.razor.rz.scp.css
 D:\App\MAUI\Maui-Hybrid\MauiBlazor-Music-Cast\MusicCast.Pages\obj\Debug\net8.0\scopedcss\Shared\Lists\EpisodeListItem.razor.rz.scp.css
 D:\App\MAUI\Maui-Hybrid\MauiBlazor-Music-Cast\MusicCast.Pages\obj\Debug\net8.0\scopedcss\Shared\MainLayout.razor.rz.scp.css

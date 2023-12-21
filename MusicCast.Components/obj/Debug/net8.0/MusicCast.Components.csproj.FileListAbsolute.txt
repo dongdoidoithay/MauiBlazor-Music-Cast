@@ -34,3 +34,5 @@ D:\App\MAUI\Maui-Hybrid\MauiBlazor-Music-Cast\MusicCast.Components\obj\Debug\net
 D:\App\MAUI\Maui-Hybrid\MauiBlazor-Music-Cast\MusicCast.Components\obj\Debug\net8.0\MusicCast.Components.pdb
 D:\App\MAUI\Maui-Hybrid\MauiBlazor-Music-Cast\MusicCast.Components\obj\Debug\net8.0\ref\MusicCast.Components.dll
 D:\App\MAUI\Maui-Hybrid\MauiBlazor-Music-Cast\MusicCast.Components\obj\Debug\net8.0\scopedcss\Player\FloatingPlayer.razor.rz.scp.css
+D:\App\MAUI\Maui-Hybrid\MauiBlazor-Music-Cast\MusicCast.Components\obj\Debug\net8.0\scopedcss\Components\EndLine.razor.rz.scp.css
+D:\App\MAUI\Maui-Hybrid\MauiBlazor-Music-Cast\MusicCast.Components\obj\Debug\net8.0\scopedcss\Components\Loading.razor.rz.scp.css

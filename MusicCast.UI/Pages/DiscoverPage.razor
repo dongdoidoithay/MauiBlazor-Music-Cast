@@ -1,0 +1,33 @@
+﻿@page "/discover"
+@implements IDisposable
+
+
+<div class="tab-container">
+    <div class="tab-item active">
+       TAB-1
+    </div>
+    <div class="tab-item">
+       Tab-2
+    </div>
+    <div class="tab-item ">
+       Tab-3
+    </div>
+</div>
+
+    <div class="mt-4">
+        <h2>oooooooooooooooo</h2>
+      @*   <Tags Platform="@(_platform)"
+              ActiveTagId="@(TagId)"
+              OnTagSelect="@((id)=>TagSelected(id))" /> *@
+    </div>
+    <div class="mt-4">
+       <Discover /> 
+    </div>
+
+
+@code{
+    public void Dispose()
+    {
+        //this.Dispose();
+    }
+}

@@ -1,7 +1,7 @@
-﻿@page "/show/{id:guid}"
+﻿@page "/show/{id:string}"
 @implements IDisposable
 @inject PlayerService PlayerService
-@inject PodcastService PodcastService
+@inject AppService AppService
 @inject SubscriptionsService SubscriptionsService
 @inject PersistentComponentState ApplicationState
 
@@ -54,20 +54,20 @@ else
     private PersistingComponentStateSubscription _persistingSubscription;
 
     [Parameter]
-    public Guid Id { get; set; }
+    public string Id { get; set; }
 
     protected override async Task OnInitializedAsync()
     {
         _persistingSubscription = ApplicationState.RegisterOnPersisting(PersistShow);
 
-        if (!ApplicationState.TryTakeFromJson<Show>("show", out var restored))
-        {
-            show = await PodcastService.GetShow(Id);
-        }
-        else
-        {
-            show = restored!;
-        }
+        // if (!ApplicationState.TryTakeFromJson<Show>("show", out var restored))
+        // {
+        //     show = await PodcastService.GetShow(Id);
+        // }
+        // else
+        // {
+        //     show = restored!;
+        // }
 
         showCategories = show?.Categories?.Select(c => c.Genre);
     }

@@ -29,7 +29,7 @@ public class PodcastService
     }
 
     //2
-    public Task<Show[]?> GetShows(int limit, string? term = null, Guid? categoryId = null)
+    public Task<Show[]?> GetShows(int limit, string? term = null, string? categoryId = null)
     {
         var text = _httpClient.GetStringAsync($"shows?limit={limit}&term={term}&categoryId={categoryId}").Result;
         var item = _httpClient.GetFromJsonAsync<Show[]>($"shows?limit={limit}&term={term}&categoryId={categoryId}");
@@ -38,7 +38,7 @@ public class PodcastService
     }
 
     //3
-    public Task<Show?> GetShow(Guid id)
+    public Task<Show?> GetShow(string id)
     {
         var text = _httpClient.GetStringAsync($"shows/{id}").Result;
         var item = _httpClient.GetFromJsonAsync<Show>($"shows/{id}");

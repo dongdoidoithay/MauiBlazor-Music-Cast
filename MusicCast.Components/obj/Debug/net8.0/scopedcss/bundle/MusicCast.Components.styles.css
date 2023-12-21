@@ -1,3 +1,48 @@
+/* _content/MusicCast.Components/Components/EndLine.razor.rz.scp.css */
+
+.end-line[b-g3cf9x3ruj] {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    white-space: nowrap;
+    margin: 5px;
+}
+
+    .end-line[b-g3cf9x3ruj]::before {
+        background: linear-gradient(90deg, transparent 0%, #e6e6e6 10%);
+    }
+
+    .end-line[b-g3cf9x3ruj]::before,
+    .end-line[b-g3cf9x3ruj]::after {
+        content: '';
+        display: block;
+        width: 50%;
+        height: 1px;
+        flex-grow: 1;
+        flex-shrink: 1;
+    }
+
+    .end-line[b-g3cf9x3ruj]::after {
+        background: linear-gradient(270deg, transparent 0%, #e6e6e6 10%);
+    }
+
+    .end-line span[b-g3cf9x3ruj] {
+        color: #999999;
+        padding: 0 0.5em;
+    }
+/* _content/MusicCast.Components/Components/Loading.razor.rz.scp.css */
+.info[b-44a7myyor9] {
+    background-color: var(--mud-palette-background);
+    margin: auto;
+    padding: 20px 40px 20px 40px;
+    border-radius: 10px;
+}
+
+.message[b-44a7myyor9] {
+    margin-top: 10px;
+    color: var(--mud-palette-primary);
+}
 /* _content/MusicCast.Components/Player/FloatingPlayer.razor.rz.scp.css */
 .player[b-m9y1lcf52e] {
     box-shadow: 0 30px 48px rgba(0, 0, 0, 0.16), 0 8px 30px rgba(0, 0, 0, 0.14), 0 8px 10px rgba(0, 0, 0, 0.1), 0 4px 12px -10px rgba(0, 0, 0, 0.5);

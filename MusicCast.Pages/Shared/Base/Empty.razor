@@ -1,0 +1,27 @@
+﻿
+<div class="d-flex align-center @Class">
+    <MudIcon Icon="far fa-surprise"
+             Dense="true"
+             Size="Size.Small"
+             Class="mr-1"></MudIcon>
+    <span>Nothing</span>
+
+    @if (OnRefresh.HasDelegate)
+    {
+        <span @onclick="Refresh"
+              style="cursor:pointer;margin-left:2px;color:var(--mud-palette-primary)">
+            refresh
+        </span>
+    }
+</div>
+@code {
+    [Parameter]
+    public string Class { get; set; } = "";
+
+    [Parameter]
+    public EventCallback OnRefresh { get; set; }
+    private async Task Refresh()
+    {
+        await OnRefresh.InvokeAsync();
+    }
+}

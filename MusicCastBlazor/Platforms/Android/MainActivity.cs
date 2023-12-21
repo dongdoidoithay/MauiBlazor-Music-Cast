@@ -26,6 +26,10 @@ public class MainActivity : MauiAppCompatActivity, IAudioActivity
         NotificationHelper.CreateNotificationChannel(ApplicationContext);
         if (mediaPlayerServiceConnection == null)
             InitializeMedia();
+
+        //thêm inten
+        var intent = new Intent(ApplicationContext, typeof(MediaPlayerService));
+        ApplicationContext.StartForegroundService(intent);
     }
 
     private void InitializeMedia()

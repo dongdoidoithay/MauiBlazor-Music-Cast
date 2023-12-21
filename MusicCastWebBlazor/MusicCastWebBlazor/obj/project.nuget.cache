@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "TgmHWiq70BfKxTs1yDwgaOU5Xa2TTrTSeYs0jPT5qYuUVVzbOjpAOdaKBFM+h67rFNBsU5jlsCZ7cj846Jr30Q==",
+  "dgSpecHash": "/w/w5RA35ojqOCXb/R2VLnDWapYpN1u0WNOak+Ey0Sxk9AEe6hiSAKdj6LoWL/mmzMbdq653ZZ72D4e1Ne8xqA==",
   "success": true,
   "projectFilePath": "D:\\App\\MAUI\\Maui-Hybrid\\MauiBlazor-Music-Cast\\MusicCastWebBlazor\\MusicCastWebBlazor\\MusicCastWebBlazor.csproj",
   "expectedPackageFiles": [
@@ -25,6 +25,8 @@
     "C:\\Users\\xuanh\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\8.0.0\\microsoft.extensions.fileproviders.physical.8.0.0.nupkg.sha512",
     "C:\\Users\\xuanh\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\8.0.0\\microsoft.extensions.filesystemglobbing.8.0.0.nupkg.sha512",
     "C:\\Users\\xuanh\\.nuget\\packages\\microsoft.extensions.http\\8.0.0\\microsoft.extensions.http.8.0.0.nupkg.sha512",
+    "C:\\Users\\xuanh\\.nuget\\packages\\microsoft.extensions.localization\\7.0.14\\microsoft.extensions.localization.7.0.14.nupkg.sha512",
+    "C:\\Users\\xuanh\\.nuget\\packages\\microsoft.extensions.localization.abstractions\\7.0.14\\microsoft.extensions.localization.abstractions.7.0.14.nupkg.sha512",
     "C:\\Users\\xuanh\\.nuget\\packages\\microsoft.extensions.logging\\8.0.0\\microsoft.extensions.logging.8.0.0.nupkg.sha512",
     "C:\\Users\\xuanh\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\xuanh\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
@@ -32,6 +34,7 @@
     "C:\\Users\\xuanh\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
     "C:\\Users\\xuanh\\.nuget\\packages\\microsoft.jsinterop\\8.0.0\\microsoft.jsinterop.8.0.0.nupkg.sha512",
     "C:\\Users\\xuanh\\.nuget\\packages\\microsoft.jsinterop.webassembly\\8.0.0\\microsoft.jsinterop.webassembly.8.0.0.nupkg.sha512",
+    "C:\\Users\\xuanh\\.nuget\\packages\\mudblazor\\6.11.2\\mudblazor.6.11.2.nupkg.sha512",
     "C:\\Users\\xuanh\\.nuget\\packages\\system.diagnostics.diagnosticsource\\8.0.0\\system.diagnostics.diagnosticsource.8.0.0.nupkg.sha512",
     "C:\\Users\\xuanh\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512",
     "C:\\Users\\xuanh\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",

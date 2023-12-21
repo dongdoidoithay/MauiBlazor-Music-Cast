@@ -1,0 +1,30 @@
+@media screen and (min-width: 960px) {
+
+    .song-menu-container[b-jogmrzey90] {
+        width: 700px;
+        margin: auto;
+    }
+
+    .song-menu-item[b-jogmrzey90] {
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .song-menu-name[b-jogmrzey90] {
+        margin-top: 3px;
+        font-size: 13px;
+    }
+}
+
+@media screen and (max-width: 960px) {
+
+    .song-menu-item[b-jogmrzey90] {
+    }
+}
+
+.song-menu-img[b-jogmrzey90] {
+    width: 100%;
+    height: auto;
+}

@@ -1,9 +1,9 @@
 ﻿using SharedMauiLib;
 using Microsoft.AspNetCore.Components;
 
-using MusicCast.Components;
-using MusicCast.Pages.Data;
 using System.Timers;
+using MusicCast.UI;
+using MusicCast.UI.Services;
 
 namespace MusicCastBlazor.Services;
 internal class AudioInteropService : IAudioInterop

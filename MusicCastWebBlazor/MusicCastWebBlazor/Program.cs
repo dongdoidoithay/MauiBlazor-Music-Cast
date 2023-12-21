@@ -1,5 +1,5 @@
-using MusicCast.Components;
 using MusicCast.Pages.Data;
+using MusicCast.Pages.DI;
 using MusicCast.Shared;
 
 var builder = WebApplication.CreateBuilder(args);

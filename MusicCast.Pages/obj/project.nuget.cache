@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "2ARIDubfTJbu2vBG0/22q7S7SE4n9XrEaIR1AsTsUvzYObKCE4b9KIS6Xo1NI6ScerBZRog9vVozw3Ool5GNSQ==",
+  "dgSpecHash": "GN8ceEjpEtdw0mty6YVxM+OVkEjJcJZbjgaT8SahQ7Y0YVpmc+KWT00665Lh1aH/Pt6IcLXu74hfzfhWpDQvUg==",
   "success": true,
   "projectFilePath": "D:\\App\\MAUI\\Maui-Hybrid\\MauiBlazor-Music-Cast\\MusicCast.Pages\\MusicCast.Pages.csproj",
   "expectedPackageFiles": [
@@ -12,10 +12,14 @@
     "C:\\Users\\xuanh\\.nuget\\packages\\microsoft.aspnetcore.metadata\\8.0.0\\microsoft.aspnetcore.metadata.8.0.0.nupkg.sha512",
     "C:\\Users\\xuanh\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
     "C:\\Users\\xuanh\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\xuanh\\.nuget\\packages\\microsoft.extensions.localization\\7.0.14\\microsoft.extensions.localization.7.0.14.nupkg.sha512",
+    "C:\\Users\\xuanh\\.nuget\\packages\\microsoft.extensions.localization.abstractions\\7.0.14\\microsoft.extensions.localization.abstractions.7.0.14.nupkg.sha512",
+    "C:\\Users\\xuanh\\.nuget\\packages\\microsoft.extensions.logging\\8.0.0\\microsoft.extensions.logging.8.0.0.nupkg.sha512",
     "C:\\Users\\xuanh\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\xuanh\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
     "C:\\Users\\xuanh\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
     "C:\\Users\\xuanh\\.nuget\\packages\\microsoft.jsinterop\\8.0.0\\microsoft.jsinterop.8.0.0.nupkg.sha512",
+    "C:\\Users\\xuanh\\.nuget\\packages\\mudblazor\\6.11.2\\mudblazor.6.11.2.nupkg.sha512",
     "C:\\Users\\xuanh\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512"
   ],
   "logs": []

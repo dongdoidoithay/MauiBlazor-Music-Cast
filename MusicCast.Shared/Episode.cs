@@ -1,7 +1,7 @@
 ﻿namespace MusicCast.Shared;
 
 public record Episode(
-    Guid Id,
+    string Id,
     string Title,
     string Description,
     string Explicit,

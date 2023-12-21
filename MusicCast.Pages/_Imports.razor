@@ -5,17 +5,26 @@
 @using Microsoft.AspNetCore.Components.Routing
 @using Microsoft.AspNetCore.Components.Web.Virtualization
 @using Microsoft.JSInterop
+
 @using MusicCast.Pages
 @using MusicCast.Pages.Events
 @using MusicCast.Pages.Models
+@using MusicCast.Pages.Data
+@using MusicCast.Pages.DI
+@using MusicCast.Pages.Enums
+
 @using MusicCast.Pages.Shared
 @using MusicCast.Pages.Shared.Cards
 @using MusicCast.Pages.Shared.Lists
 @using MusicCast.Pages.Shared.Player
-@using MusicCast.Pages.Data
-@using MusicCast.Components
-@* @using MusicCast.Components.ListenTogether *@
-@using MusicCast.Components.Player
-@using MusicCast.Components.Shared
-@using MusicCast.Components.Shared.Grid
+@using MusicCast.Pages.Shared.Base
+@using MusicCast.Pages.Components.Discover
+@using MusicCast.Pages.Components.Player
+
+
 @using MusicCast.Shared
+@using MusicCast.Shared.Service
+@using MusicCast.Shared.Service.Response
+
+@using MudBlazor
+@using Microsoft.Extensions.Logging

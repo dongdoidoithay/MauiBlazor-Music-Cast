@@ -26,8 +26,9 @@
 
         <!-- App Identifier -->
         <ApplicationId>com.companyname.mussic.cast</ApplicationId>
+		<ApplicationIdGuid>E0B8B8CA-6A49-44D7-B794-BCCBCD90090F</ApplicationIdGuid>
 
-        <!-- Versions -->
+		<!-- Versions -->
         <ApplicationDisplayVersion>1.0</ApplicationDisplayVersion>
         <ApplicationVersion>1</ApplicationVersion>
 
@@ -59,7 +60,7 @@
 
     <ItemGroup>
       <ProjectReference Include="..\Lib\SharedMauiLib\SharedMauiLib.csproj" />
-      <ProjectReference Include="..\MusicCast.Pages\MusicCast.Pages.csproj" />
+      <ProjectReference Include="..\MusicCast.UI\MusicCast.UI.csproj" />
     </ItemGroup>
 
 </Project>

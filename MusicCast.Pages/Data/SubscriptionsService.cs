@@ -1,4 +1,4 @@
-﻿using MusicCast.Components;
+﻿using MusicCast.Pages.DI;
 using MusicCast.Pages.Models;
 
 namespace MusicCast.Pages.Data;
@@ -47,7 +47,7 @@ public class SubscriptionsService
         return _shows;
     }
 
-    public async Task<bool> IsSubscribedShowAsync(Guid showId)
+    public async Task<bool> IsSubscribedShowAsync(string showId)
     {
         await InitializeAsync();
         return _shows?.Any(s => s.Id == showId) ?? false;

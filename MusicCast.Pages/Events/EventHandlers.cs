@@ -1,7 +1,9 @@
 ﻿using Microsoft.AspNetCore.Components;
 
 namespace MusicCast.Pages.Events;
-
+//components
+[EventHandler("onanimationend", typeof(EventArgs),
+    enableStopPropagation: true, enablePreventDefault: false)]
 
 [EventHandler("oncustomdurationchange", typeof(DurationChangeEventArgs),
     enableStopPropagation: true, enablePreventDefault: true)]

@@ -1,6 +1,6 @@
 ﻿namespace MusicCast.Shared;
 public record Show(
-    Guid Id,
+    string Id,
     string Title,
     string Author,
     string Description,
